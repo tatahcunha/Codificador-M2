@@ -10,5 +10,5 @@ Projeto individual do Segundo Módulo proposto pela Resilia, no qual a finalidad
 
 Acesso ao projeto [aqui](https://github.com/tatahcunha/Codificador-M2).
 
-Visualizar a pagina do projeto [aqui]().
+Visualizar a pagina do projeto [aqui](https://tatahcunha.github.io/Codificador-M2/).
 
